@@ -1,0 +1,9 @@
+Django
+django-cors-headers
+djangorestframework
+joblib
+lightgbm
+numpy
+pandas==1.4.2
+scikit-learn
+scipy
